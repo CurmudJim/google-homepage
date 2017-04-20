@@ -1,0 +1,52 @@
+a, .btn {
+  color: #757575;
+}
+
+#top-nav.navbar-default {
+  background-color: white;
+  border: none;
+}
+
+.btn, .panel, .form-control {
+  border-radius: 0;
+}
+
+.form-control {
+  box-shadow: none;
+}
+
+
+.container {
+  margin-top: 20rem;
+  width: 100%;
+}
+
+.container img, .container .panel, .container button {
+  margin: 1rem .25rem;
+}
+
+.container .panel {
+  width: 60rem;
+  height: 5rem;
+}
+
+.container .form-control {
+  height: 100%;
+}
+
+.navbar-right {
+  padding-right: 1.5rem;
+}
+
+.btn-default {
+  height: 4rem;
+  width: 14rem;
+  background-color: rgb(244, 244, 244);
+  border: none;
+}
+
+.btn-default:hover {
+  background-image: linear-gradient(#f0f0f0,#f5f5f5);
+  color: black;
+  border: 1px solid #757575;
+}
